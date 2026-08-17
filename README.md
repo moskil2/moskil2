@@ -7,6 +7,8 @@
 
 <p align="center">
   <a href="https://spotrobotics.app/"><strong>spotrobotics.app</strong></a>
+  ·
+  <a href="https://spotrobotics.app/support/">Support</a>
 </p>
 
 ---
