@@ -1,3 +1,5 @@
+<p align="center"><img src="https://spotrobotics.app/icons/logo-header.png" width="120" alt="Spot Robotics logo"></p>
+
 <h1 align="center">Spot Robotics</h1>
 
 <p align="center">
@@ -7,6 +9,8 @@
 
 <p align="center">
   <a href="https://spotrobotics.app/"><strong>spotrobotics.app</strong></a>
+  ·
+  <a href="https://play.google.com/store/apps/developer?id=SpotRobotics">Google Play</a>
   ·
   <a href="https://spotrobotics.app/support/">Support</a>
 </p>
